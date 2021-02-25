@@ -1,7 +1,6 @@
 import numpy as np
 import cv2
 
-from core import locate_and_correct
 from tensorflow import keras
 from tensorflow.keras import backend as K
 
